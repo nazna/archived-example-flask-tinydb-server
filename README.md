@@ -1,6 +1,6 @@
-# Flask TinyDB server example
+# example-flask-tinydb-server
 
-Flask+TinyDBでAPIサーバーをたてるサンプル
+> A example server with flask and tinydb
 
 ## Usage
 
